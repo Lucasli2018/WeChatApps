@@ -1,0 +1,5 @@
+<!--pages/wxml/index.wxml-->
+<!-- <text>pages/wxml/index.wxml</text> -->
+<!-- <text>当前时间：{{time}}</text> -->
+<!-- <text>{{ a === 10? "变量 a 等于10": "变量 a 不等于10"}}</text> -->
+<!-- <view> {{a + b}} + {{c}} + d </view> -->
